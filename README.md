@@ -1,3 +1,4 @@
+```markdown
 # Upload S3 Golang
 
 Este projeto em Go foi desenvolvido como parte do curso Full Cycle Go Expert, com o objetivo de implementar um serviço de upload de arquivos utilizando a linguagem Go.
@@ -32,7 +33,7 @@ upload\_s3\_golang/
    ```bash
    git clone https://github.com/seu-usuario/upload_s3_golang.git
    cd upload_s3_golang
-````
+   ```
 
 2. Instale as dependências:
 
@@ -61,3 +62,4 @@ Desenvolvido por [Seu Nome](https://github.com/seu-usuario) durante o curso **Fu
 
 Este projeto está licenciado sob a licença MIT.
 
+```
