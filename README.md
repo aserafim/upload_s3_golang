@@ -1,4 +1,3 @@
-```markdown
 # Upload S3 Golang
 
 Este projeto em Go foi desenvolvido como parte do curso Full Cycle Go Expert, com o objetivo de implementar um serviço de upload de arquivos utilizando a linguagem Go.
@@ -61,5 +60,3 @@ Desenvolvido por [Seu Nome](https://github.com/seu-usuario) durante o curso **Fu
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
-
-```
